@@ -1,0 +1,6 @@
+pymongo
+python-dotenv
+tk
+streamlit
+pymongo
+bcrypt
